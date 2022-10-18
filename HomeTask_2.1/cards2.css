@@ -1,0 +1,35 @@
+.text{
+    width: 300px;
+    height: 190px;
+    background: #c7ada4;
+    text-align: center;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.end{ width: 300px;
+    height: 40px;
+    background: #c7ada4;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding-bottom: 100px;
+    padding-left: 45px;
+
+}
+.border{width: 200px;
+    height: 40px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+.mainborder{
+    width: 300px;
+    height: 290px;
+    border: 2px solid black
+}
+.combo{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+margin-top: 30px;
+}
