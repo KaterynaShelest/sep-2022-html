@@ -1,0 +1,46 @@
+
+.border{
+    border:2px solid rgba(32,61,93,1);
+}
+
+p{
+    color: gray
+}
+.button{
+    width: 70%;
+    height: 15%;
+font-size: 18px;
+    margin-top: 10%;
+
+
+}
+.round{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #dadada;
+    margin-left: 35%;
+    position: relative;
+top: -50px
+}
+.bg-base{
+    width: 350px;
+    height: 400px;
+    border:2px solid rgba(32,61,93,1);
+    text-align: center;
+    font-size: 20px;
+    box-sizing: border-box;
+    position: relative;
+    top: 80px
+
+}
+
+.space{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+}
+img{
+    width: 50px;
+    margin-top: 20%;
+}
